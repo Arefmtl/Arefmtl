@@ -1,32 +1,8 @@
-<!DOCTYPE html>
-<html lang="en" data-color-mode="dark" data-dark-theme="dark">
-<head>
-<meta charset="UTF-8">
-<title>README Preview</title>
-<style>
-  body {
-    background: #0d1117;
-    color: #c9d1d9;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 0 20px 60px;
-    line-height: 1.6;
-  }
-  h1, h3 { color: #fff; }
-  a { color: #F56E0F; text-decoration: none; }
-  hr { border-color: #262626; margin: 28px 0; }
-  ul { padding-left: 1.4em; }
-  li { margin-bottom: 6px; }
-</style>
-</head>
-<body>
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg5cnIya2E5ZnYxbGN6ZzRscDJoajZsMXlldW1zZnpqM3pzYnYxZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 </div>
 
-<div align="center" style="margin-top:16px;">
+<div align="center">
   <a href="https://www.linkedin.com/in/ali-kzm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
@@ -48,22 +24,22 @@
   <img src="https://komarev.com/ghpvc/?username=arefmtl&label=Profile%20views&color=F56E0F&style=flat" alt="arefmtl profile views" />
 </p>
 
-<hr>
+---
 
-<h3>About Me</h3>
-<ul>
-  <li>🔭 Currently building <b><a href="https://github.com/Arefmtl/TOOL-BOX">TOOL-BOX</a></b> — an ML/DS toolkit for theory-skilled beginners</li>
-  <li>🌱 Currently leveling up in <b>Power BI</b> and applied ML engineering</li>
-  <li>👯 Looking to collaborate on <b>Kaggle competitions</b></li>
-  <li>🤝 Looking for help with <b>UI/UX</b> on <a href="https://github.com/Arefmtl/TOOL-BOX">TOOL-BOX</a></li>
-  <li>💬 Ask me about <b>ML, AI, Data Science</b></li>
-  <li>📫 Reach me at <b>arefkazemi42@gmail.com</b></li>
-  <li>📄 Background & experience: <b><a href="https://www.linkedin.com/in/ali-kzm/">LinkedIn</a></b></li>
-</ul>
+### About Me
 
-<hr>
+- 🔭 Currently building **[TOOL-BOX](https://github.com/Arefmtl/TOOL-BOX)** — an ML/DS toolkit for theory-skilled beginners
+- 🌱 Currently leveling up in **Power BI** and applied ML engineering
+- 👯 Looking to collaborate on **Kaggle competitions**
+- 🤝 Looking for help with **UI/UX** on [TOOL-BOX](https://github.com/Arefmtl/TOOL-BOX)
+- 💬 Ask me about **ML, AI, Data Science**
+- 📫 Reach me at **arefkazemi42@gmail.com**
+- 📄 Background & experience: **[LinkedIn](https://www.linkedin.com/in/ali-kzm/)**
 
-<h3>🛠 Languages & Tools</h3>
+---
+
+### 🛠 Languages & Tools
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
@@ -81,43 +57,47 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda" />
   <img width="12" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
- 
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="figma" />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="matlab" />
+
 </div>
 
-<hr>
+---
 
-<h3>📊 GitHub Stats</h3>
+### 📊 GitHub Stats
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=arefmtl&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=151419&title_color=F56E0F&icon_color=F56E0F&text_color=FBFBFB" alt="arefmtl stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefmtl&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=151419&title_color=F56E0F&text_color=FBFBFB" alt="arefmtl top langs" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefmtl&theme=tokyonight&hide_border=true&background=151419&ring=F56E0F&fire=F56E0F&currStreakLabel=F56E0F" alt="arefmtl streak stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arefmtl&theme=tokyonight&no-bg=true&row=1&column=6" alt="arefmtl trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arefmtl&theme=tokyonight&no-bg=true&row=1&column=6" alt="arefmtl trophies" />
+  </a>
 </p>
 
-<hr>
+---
 
 <picture>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arefmtl/arefmtl/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arefmtl/arefmtl/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arefmtl/arefmtl/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arefmtl/arefmtl/output/pacman-contribution-graph.svg">
 </picture>
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FBFBFB&fontAlign=50&fontAlignY=50&color=151419" />
 </div>
-
-</body>
-</html>
