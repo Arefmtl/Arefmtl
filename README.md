@@ -91,10 +91,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefmtl&theme=tokyonight&hide_border=true&background=151419&ring=F56E0F&fire=F56E0F&currStreakLabel=F56E0F" alt="arefmtl streak stats" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arefmtl&theme=tokyonight&no-bg=true&row=1&column=6" alt="arefmtl trophies" />
-  </a>
+
 </p>
 
 ---
