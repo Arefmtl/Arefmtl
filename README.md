@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aref</h1>
-<h3 align="center">Biomedical Engineer turned Data Scientist / ML Engineer — building things that solve real problems</h3>
+<h3 align="center">Biomedical Engineer → Data Scientist / ML Engineer — building things that solve real problems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arefmtl&label=Profile%20views&color=F56E0F&style=flat" alt="arefmtl profile views" />
@@ -26,15 +26,57 @@
 
 ---
 
-### About Me
+### 🔧 About Me
 
-- 🔭 Currently building **[TOOL-BOX](https://github.com/Arefmtl/TOOL-BOX)** — an ML/DS toolkit for theory-skilled beginners
-- 🌱 Currently leveling up in **Power BI** and applied ML engineering
-- 👯 Looking to collaborate on **Kaggle competitions**
-- 🤝 Looking for help with **UI/UX** on [TOOL-BOX](https://github.com/Arefmtl/TOOL-BOX)
-- 💬 Ask me about **ML, AI, Data Science**
+- 🔭 Currently building **AI Agent tools** and **open-source infrastructure**
+- 🌱 Exploring **Cloudflare Workers**, **LLMs**, and **multi-agent systems**
+- 🎯 Looking for **Data Science / ML Engineer** roles
+- 💬 Ask me about **ML, AI, Data Science, Cloudflare, Python**
 - 📫 Reach me at **arefkazemi42@gmail.com**
 - 📄 Background & experience: **[LinkedIn](https://www.linkedin.com/in/ali-kzm/)**
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🧠 [Hermes Shared Memory](https://github.com/Arefmtl/hermes-shared-memory-)
+A free cloud bridge between AI Agents — Cloudflare Workers + KV shared memory
+
+`cloudflare-workers` `ai-agents` `serverless` `python`
+
+</td>
+<td width="50%">
+
+#### 🛠️ [TOOL-BOX](https://github.com/Arefmtl/TOOL-BOX)
+ML/DS Toolkit — 8 modular tools for data processing, classification, regression, clustering
+
+`machine-learning` `data-science` `scikit-learn` `python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🤖 [Arefera Admin Panel](https://github.com/Arefmtl/arefera_admin_panel)
+Telegram Bot + Admin Panel — Cloudflare Workers, Next.js, AI content generation
+
+`telegram-bot` `cloudflare` `nextjs` `typescript`
+
+</td>
+<td width="50%">
+
+#### 📝 [README Generator](https://github.com/Arefmtl/readme_generator)
+Auto-generate beautiful README files for GitHub repos
+
+`readme` `generator` `markdown` `documentation`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,26 +99,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda" />
   <img width="12" />
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" height="40" alt="cloudflare" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress" />
-  <img width="12" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
 </div>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arefmtl/arefmtl/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arefmtl/arefmtl/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arefmtl/arefmtl/pacman-output/galaga-contribution-graph.svg">
-</picture>
 
 ---
 
@@ -91,11 +121,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefmtl&theme=tokyonight&hide_border=true&background=151419&ring=F56E0F&fire=F56E0F&currStreakLabel=F56E0F" alt="arefmtl streak stats" />
 </p>
 
-
-</p>
-
 ---
 
+### 🎯 What I'm Looking For
+
+| چی | توضیح |
+|-----|-------|
+| 🎯 **Role** | Data Scientist / ML Engineer |
+| 🏢 **Type** | Remote or Hybrid |
+| 🛠️ **Skills** | Python, ML/AI, Cloud Infrastructure |
+| 🌍 **Languages** | English (fluent), German (C1), Persian (native) |
+
+---
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FBFBFB&fontAlign=50&fontAlignY=50&color=151419" />
