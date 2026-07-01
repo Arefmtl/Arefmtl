@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Aref</h1>
+<h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Biomedical Engineer → Data Scientist / ML Engineer — building things that solve real problems</h3>
 
 <p align="center">
